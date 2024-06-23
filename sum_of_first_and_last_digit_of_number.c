@@ -8,7 +8,9 @@ int main() {
     b=num/10;//1234/10=123
     c=b/100;//123/100=1
     sum=a+c;//4+1=5
-    printf("Sum of 1st and last digit %d",sum);//5
+    printf("Sum of First and last digit %d",sum);//5
     
     return 0;
 }
+//Enter the 4 digit number:1234
+//Sum of First and last digit:5
